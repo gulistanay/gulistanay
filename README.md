@@ -3,7 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/gulistanay?style=social)](https://github.com/gulistanay?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulistanay?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulistanay.gulistanay%2Freadme)
-### Hi there 👋
+
+
 I'm Gülistan!
 
 Contact with me via these platforms! 
