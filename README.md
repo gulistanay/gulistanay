@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
 
 [![GitHub followers](https://img.shields.io/github/followers/gulistanay?style=social)](https://github.com/gulistanay?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/gulistanay?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulistanay.gulistanay%2Freadme)
 
 
-I'm Gülistan!
-
-Contact with me via these platforms! 
+✋ I'm Gülistan!
+🌱 I’m currently learning Java, React
+📫 How to reach me:
 
  <a href="https://www.linkedin.com/in/gulistan-ayy/" target="_blank" rel="nofollow"><img alt="Gülistan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:gulistanayy@gmail.com" target="_blank" rel="nofollow"><img alt="Gülistan's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
