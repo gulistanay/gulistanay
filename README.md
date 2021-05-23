@@ -12,9 +12,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/gulistanay?style=social)
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fgulistanay.gulistanay%2Freadme)
 
+![Gülistan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulistanay&show_icons=true&theme=tokyonight)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gulistanay&layout=compact&theme=tokyonight)
 
-![Gülistan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulistanay&show_icons=true&theme=tokyonight)
 
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"></img>
