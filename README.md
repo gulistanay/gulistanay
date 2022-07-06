@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 * ✋ I'm Gülistan!
-* 🌱 I’m currently learning Java, React
+* 🌱 I’m currently learning Python
 * 📫 How to reach me:
 
  <a href="https://www.linkedin.com/in/gulistan-ayy/" target="_blank" rel="nofollow"><img alt="Gülistan's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
